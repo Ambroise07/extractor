@@ -1,0 +1,17 @@
+# === Environnement Virtuel ===
+# Masque tout le dossier venv (et ses variantes), évitant d'envoyer des milliers de fichiers de bibliothèques sur GitHub
+venv/
+.venv/
+env/
+ENV/
+
+# === Cache Python ===
+# Supprime les fichiers compilés par Python (.pyc) qui se recréent à chaque lancement
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Fichiers de configuration des éditeurs (VS Code / PyCharm) ===
+.vscode/
+.idea/
