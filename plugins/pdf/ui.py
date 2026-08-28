@@ -652,8 +652,6 @@ class TextExtractorInterface(tkinter.Frame):
           error_master = tkinter.Frame(self)
           error_master.pack(
                side="top", 
-               expand=True, 
-               fill="x", 
                padx="2c", 
                pady="2c"
         )
@@ -664,16 +662,17 @@ class TextExtractorInterface(tkinter.Frame):
           )
           
           error_message = tkinter.label(master=error_master, text=msg)
-          error_message.pack(side="left", padx="1c", pady="12c")
+          error_message.pack(side="left", padx="1c", pady="2c")
 
           close_button = tkinter.Button(
           master=self, 
           text="fermer", 
           font="Ubuntu 16 normal",
           foreground="white",
-          background="#0d6efd")
+          background="#0d6efd",
+          command=self.destroy)
           
-          close_button.pack(expand=True, padx="1c")
+          close_button.pack(expand=True, padx="1c", pady='1c')
           return
 
         # close this window
@@ -691,7 +690,9 @@ class TextExtractorInterface(tkinter.Frame):
                   text="fermer", 
                   font="Ubuntu 16 normal",
                   foreground="white",
-                  background="#0d6efd")
+                  background="#0d6efd",
+                  command=self.destroy)
+                  
         close_button.pack(expand=True, 
                          padx="1c",
                          pady="1c" )
