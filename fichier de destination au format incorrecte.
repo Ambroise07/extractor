@@ -1,0 +1,658 @@
+       Troisième                     CÔTE D’IVOIRE – ÉCOLE NUMÉRIQUE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Mathématiques
+
+ Code :
+ Thème : CALCULS ALGEBRIQUES
+ LEÇON 1 : CALCUL LITTERAL                                               Durée : 8 heures
+
+
+      A.  SITUATION D’APPRENTISSAGE
+
+ Le Lycée Alain Gauze de DALOA veut organiser une kermesse sur un terrain de forme carrée. Les
+ principaux sponsors de la fête ont choisi chacun de bâtir leur stand dans un coin du terrain. Le Proviseur du
+ Lycée  souhaite  que  le  reste  du  terrain  ait  la  forme         d’un  octogone  et  qu’il  soit  réservé  aux  jeux.
+ L’entrepreneur chargé d’aménager le terrain propose la maquette ci                -dessous.
+                    A               I            J               B
+
+
+
+
+                    P                                             K
+                                                                          ABCD est un carré de côté x
+
+                   O                                              L
+
+
+
+
+                    D              N             M               C
+
+
+ Intéressés par le projet, les élèves de la troisième décident de calculer le périmètre et l’aire du terrain réservé
+ aux jeux.
+
+      B.  CONTENU DE LA LEÇON
+I.    Quotient
+
+      Egalité de deux quotients
+                   Propriété
+
+ a, b, c et d sont des nombres tels que b ≠         0 et d ≠ 0.
+  𝑎 =   𝑐  équivaut à 𝑎𝑑    =  𝑏𝑐
+  𝑏    𝑑
+
+ Exercice de fixation
+  𝑎 désigne un nombre différent de zéro. Détermine la valeur de 𝑎 lorsque  𝑎                 =  2
+                                                                                           3    5
+
+ Solution
+   𝑎 =  2   équivaut à 5   ×  𝑎  =  3 ×  2 .
+   3    5
+               équivaut à  5𝑎 =  6 .
+                                                                                                                                1
+                 équivaut à 𝑎 =  6 =  1,2
+                                 5
+
+    𝑎 =  2  , donc :  𝑎  =  1,2.
+    3    5
+
+
+II.    Calcul littéral
+
+   1.  Puissance à exposant entier relatif
+
+       a.    Notation
+
+      est un nombre rationnel différent de 0,           est un nombre entier naturel différent de 0.
+    L’inverse de 𝑎𝑛est noté  𝑎−𝑛. On a :
+
+                               1
+                                  =  𝑎−𝑛                     𝑎−𝑛  ×  𝑎𝑛 =  1
+                              𝑎𝑛
+
+   Exemple
+     5-3 = 𝟏  =   𝟏   .
+           𝟓𝟑    𝟏𝟐𝟓
+
+       b.   Propriétés
+
+      et   sont des nombres rationnels différents de 0 ; 𝑚 𝑒𝑡 𝑛 sont des nombres entiers relatifs.
+    𝑛      𝑛               𝑛                   𝑛      𝑚       𝑛+𝑚                𝑚   𝑛      𝑚×𝑛           𝑎𝑚       𝑚−𝑛
+   𝑎   ×  𝑏   =  (𝑎  ×  𝑏)            ;           𝑎×𝑎    =  𝑎             ;      (𝑎)   =  𝑎             ;   𝑎𝑛=  𝑎      .
+
+   Exercice de fixation
+    Recopie et complète les pointillés.
+   65 ×  62  =  6….. ; (−7)3    ×  (−7)−5    =  (−7)…..  ;  (8−2)3     =  8….. ; 33 ×  83  =  (…  .×  …  .)…. =  …….   ;
+   98       …..
+    95 =. ..
+
+   Corrigé
+    5      2      7         3           −5            −2     −2  3      −6     3     3              3      3   98      3
+   6  ×  6   =  6    ; (−7)    × (−7)       =  (−7)       ;(8   )   =  8   ; 3   ×  8   =  (3  × 8)   =24    ; 95 =  9   .
+
+   2.  Développements et réductions
+
+
+            a)   Règle de suppression de parenthèses
+
+   a , b et c sont des nombres ; on a :
+   𝑎 +  (𝑏  −  𝑐)  =  𝑎 +  𝑏  −  𝑐
+   𝑎 −  (𝑏  +  𝑐)  =  𝑎 −  𝑏  −  𝑐
+   𝑎 −  (𝑏  −  𝑐)  =  𝑎 −  𝑏  +  𝑐
+
+            b)   Règles de priorité
+
+   La multiplication est prioritaire sur l’addition et sur la soustraction.
+   L’élévation à une puissance est prioritaire sur la multiplication.
+
+            c)   Développement d’un produit
+
+                                                                                                                                    2
+Propriétés
+𝑎,𝑏, 𝑥, et 𝑦 sont des nombres rationnels. On a :
+𝑎(𝑥  +  𝑦)  =  𝑎𝑥  +  𝑎𝑦
+𝑎(𝑥  −  𝑦)  =  𝑎𝑥  −  𝑎𝑦
+(𝑎 +  𝑏)(𝑥   +  𝑦) =   𝑎𝑥  +  𝑎𝑦  +  𝑏 +  𝑏𝑦
+
+         d)   Egalités remarquables
+
+𝑎 𝑒𝑡 𝑏 sont des nombres rationnels. On a :
+
+(𝑎  +   𝑏)2  =  𝑎2  +  2𝑎𝑏   +  𝑏2
+(𝑎 −   𝑏)2   =  𝑎2 −  2𝑎𝑏   +  𝑏2
+(𝑎  +   𝑏)(𝑎   −   𝑏) =   𝑎2  −  𝑏2
+
+Exercice de fixation
+En utilisant les égalités remarquables ci-dessus, complète les pointillés:
+ 1) (1 +  𝑥)2   =  ⋯  +  ⋯  +  … .…..
+ 2)  (3𝑥  +  4)(3𝑥   −  4)    =  … . .….− …  .….
+ 3) (𝑥 −  4)2  =  …  ..….−  ⋯  +  …  .….
+
+Corrigé
+     1) (1  +  𝑥)2  =  1  +  2𝑥  + 𝑥2 .
+     2)  (3𝑥  −  4)(3𝑥   +  4)  =  (3𝑥)2   −  42.
+     3) (𝑥  −  4)2  =  𝑥2  −  8𝑥  +  42.
+
+3.   Factorisations
+
+    a)   Mettre en évidence un facteur commun
+
+Exemple
+
+3𝑥(2𝑥   +  1)  −  17(2𝑥    +  1)  =  (2𝑥   +  1) (3𝑥   − 17).
+
+
+    b)   Utiliser des égalités remarquables
+
+Exemple
+
+9𝑎2  +  24𝑎   +  16  =  (3𝑎)2   +2×   3𝑎   × 4  +  42  =  (3𝑎   +  4)2.
+
+    c)   Utiliser plusieurs techniques
+
+Exemple
+
+9𝑎2  +  24𝑎   +  16  −  𝑎(3𝑎   +  4) =  (3𝑎)2   +2×    3𝑎  ×  4  +  42  −  𝑎(3𝑎   +  4)
+
+                                                        = (3𝑎+4)2−𝑎(3𝑎+4)
+                                                             =(3𝑎+4)[(3𝑎+4)−𝑎]
+                                                                =(3𝑎+4)(3𝑎+4−𝑎)
+                                                         =(3𝑎+4)(3𝑎−𝑎+ 4)
+     9𝑎2 +  24𝑎  +  16  −  𝑎(3𝑎   +  4)    = (3𝑎   +  4)(2𝑎   +  4)  =  2(3𝑎   +  4)(𝑎  +  2).
+
+4.   Produit nul, nombres de même carré
+        a)  Produit nul
+                                                                                                                               3
+    Propriétés
+
+    Un produit est égal à zéro lorsque l’un au moins de ses facteurs est égal à zéro.
+    Un produit est différent de zéro lorsque tous ses facteurs sont différents de zéro.
+    𝑎 𝑒𝑡 𝑏 sont des nombres rationnels.
+          •   𝑎   ×  𝑏   =   0     équivaut à     𝑎    =   0  𝑜𝑢  𝑏   =   0 .
+          •   𝑎   ×  𝑏   ≠   0    équivaut à    𝑎    ≠   0   𝑒𝑡   𝑏  ≠   0.
+
+    Exercice de fixation
+    𝑎 est un nombre rationnel.
+    Détermine 𝑎 tel que : (𝑎        −  2)(𝑎   +  3)  =  0.
+
+    Corrigé
+
+    (𝑎  −  2)(𝑎   +  3)  =  0  équivaut à 𝑎     −  2 =   0  ou  𝑎  +  3  =  0.
+                                    équivaut à   𝑎=2  ou  𝑎  =   −3.
+
+
+          b)   Nombres de même carré
+
+         Propriété
+
+    𝑎 𝑒𝑡 𝑏 sont des nombres rationnels.
+    𝑎2  =  𝑏2  équivaut à    𝑎      =   𝑏   ou  𝑎   =   − 𝑏.
+
+    Exercice de fixation
+    𝑥 est un nombre rationnel.
+    Détermine 𝑥 tel que : 𝑥2        =  49.
+
+    𝑥2  =  49 équivaut à 𝑥2       =  72 .
+    𝑥2  =  49 équivaut à 𝑥      =   7 ou 𝑥   =  −7.
+
+    Remarque
+    𝑎 𝑒𝑡 𝑏 sont des nombres rationnels positifs.
+    𝑎2  =  𝑏2  équivaut à    𝑎      =   𝑏.
+
+
+III.     Expressions littérales
+         1.    Polynômes
+         a.   Monôme
+    Présentation
+    On considère l’expression littérale : 𝟓𝒙𝟐.
+    C’est un monôme en 𝑥.
+    5 est le coefficient du monôme.
+    2 est le degré du monôme.
+
+         b.   Polynôme
+    Présentation
+    On considère l’expression littérale : 22𝑥9           +   76𝑥6   −  5 .
+    C’est un polynôme en 𝑥 et 9 est le degré du polynôme.
+
+
+
+
+                                                                                                                                         4
+                 Exercices de fixation
+                 Exercice 1
+                 Complète le tableau suivant.
+                       Monôme                Coefficient            Degré
+                          7𝑥²
+                           𝑥5
+                        −  2 𝑥4
+                           3
+                          −𝑥
+
+                 Exercice 2
+                 Complète le tableau suivant.
+                                 Monôme                            Degré
+                              6𝑥2  −  3𝑥7   + 4
+                               4𝑥5   −  𝑥 +  2
+                             −𝑥4   +  𝑥3 +  2𝑥8
+
+                 Exercice 3
+                 Développe, réduis puis ordonne selon les puissances décroissantes de 𝑥, l’expression littérale suivante :
+                  (2𝑥3   −  1)(3𝑥   +  2)  − 𝑥(5𝑥2    −  7)
+
+                 Corrigé
+                 Exercice 1
+
+                       Monôme                Coefficient            Degré
+                          7𝑥²                      7                   2
+                           𝑥5                      1                   5
+                        −  2 𝑥4                  −  2                  4
+                           3                        3
+                          −𝑥                     −1                    1
+
+                 Exercice 2
+
+                                 Monôme                            Degré
+                              6𝑥2  −  3𝑥7   + 4                       7
+                               4𝑥5   −  𝑥 +  2                        5
+                             −𝑥4   +  𝑥3 +  2𝑥8                       8
+
+                 Exercice 3
+
+                    (2𝑥3  −  1)(3𝑥  +  2) −  𝑥(5𝑥2   − 7)  =  (2𝑥3)  ×  (3𝑥)  + (2𝑥3)   × 2 −  1 ×  (3𝑥)  −  1 × 2  − 𝑥 ×  (5𝑥2)  −  𝑥 ×  (−7)
+
+                                                                               =6𝑥4+4𝑥3−3𝑥−2−5𝑥3 +  7𝑥
+
+                                                                               =6𝑥4+4𝑥3−5𝑥3−3𝑥+7𝑥 −2
+                 (2𝑥3   −  1)(3𝑥   +  2)  −  𝑥(5𝑥2   −  7)  =  6𝑥4   − 𝑥3  +  4𝑥 −2.
+
+
+
+
+
+                                                                                                                                                 5
+                       2.  Fractions rationnelles
+
+                       a)   Présentation
+                                                               𝑥2+5𝑥
+                  On considère l’expression littérale : 2𝑥2−1 .
+                   C’est une fraction rationnelle .
+                   𝑥2  +  5𝑥   est son numérateur.
+                                2𝑥2−  1 est son dénominateur.
+
+
+                       b)  Valeurs pour lesquelles une fraction rationnelle existe
+                  Propriété
+                  Soit 𝐴 une fraction rationnelle.
+                  𝐴     𝐵
+                  𝐵 existe si et seulement si B  0.
+
+                  Exercice de fixation
+                  Soit la fraction rationnelle K telle que K =           𝑥+6  .
+                                                                        5𝑥+2
+                  Détermine les valeurs de 𝑥 pour lesquelles K existe.
+
+                  Corrigé
+                  K existe si et seulement si : 5𝑥       +  2  ≠  0.
+                  Résolvons : l’équation 5𝑥        +  2   =  0.
+                  5𝑥  +  2   =  0 équivaut à 𝑥     =  −2 .
+                                                       5              2
+                  Donc, K existe si et seulement si : 𝑥         ≠  −  5 .
+
+
+                       c)  Simplifier une fraction rationnelle
+                  Méthode
+                  Pour simplifier une fraction rationnelle
+                  On peut procèder comme suit :
+                  - on factorise le numérateur et le dénominateur             ;
+                  - on détermine la condition d’existence d’une valeur numérique de la fraction rationnelle                       ;
+                  - on simplifie la fraction rationnelle pour chacun des             facteurs communs figurant au numérateur et au
+                  dénominateur ;
+                  - on écrit la fraction rationnelle simplifiée, précédée de la condition d’existence d’une valeur numérique
+                  de la fraction rationnelle.
+
+                  Exercice de fixation
+                  On donne la fraction rationnelle         F suivante : 𝐹    =  (𝑥−3)(𝑥+3).
+                                                                                (𝑥+3)(𝑥−1)
+                  Simplifie F pour 𝑥      ≠  −3 et 𝑥    ≠  1.
+
+                  Corrigé
+                  On simplifie par (𝑥      +  3) le facteur commun figurant au numérateur et au dénominateur.
+
+                  𝐹  =  (𝑥  −  3)(𝑥   +  3)
+                        (𝑥  +  3)(𝑥   −  1)
+                  Pour 𝑥   ≠   −3 𝑒𝑡 𝑥    ≠  1; 𝐹  =  𝑥−3 .
+                                                      𝑥−1
+
+
+
+                                                                                                                                                      6
+    C.   SITUATION D’EVALUATION
+Pendant les grandes vacances, un groupe d’élèves de 3             ème d’un lycée décide de vendre au grand marché
+de la ville des objets fabriqués par une coopérative de femmes.
+Cette coopérative envisage de vendre un article à 2000 F.
+Le coût de fabrication journalier de 𝑥 objets est donné par la formule : 𝐶               =  2090𝑥    −  𝑥2, où 𝑥   >  0.
+Soucieuse et très prudente, la présidente de la coopérative souhaite connaitre le nombre d’articles pour
+lequel les dépenses et la recette s’équilibrent.
+Ne sachant pas comment s’y prendre, elle te sollicite.
+    1)   Exprime en fonction de 𝑥, la recette R de 𝑥 objets vendus.
+    2)   Sachant que le bénéfice est       𝐵  =  𝑅  −  𝐶, démontre que : 𝐵      =   𝑥(𝑥  −  90).
+    3)   Déduis-en le nombre d’articles pour lequel les dépenses et la recette s’équilibrent.
+
+Corrigé
+    1)   Chaque objet est vendu à 2000 F donc la recette R de             𝑥 objets vendus est :
+         R = 2000𝑥.
+    2)   𝐵  =  𝑅 −  𝐶
+             =  2000𝑥    −  2090𝑥    +  𝑥2
+             =  −90𝑥    +  𝑥2
+             =  𝑥(−90    +  𝑥)
+             =  𝑥(𝑥  −  90).
+    3)   Les dépenses et la recette s’équilibrent, équivaut à          𝐵  =  0.
+         Alors, 𝐵   =  0 équivaut à 𝑥    =  0 ou 𝑥   −  90  =  0
+                                         𝑥=0 ou 𝑥=90 ;
+         d’où le nombre d’articles pour lequel les dépenses et la recette s’équilibrent est 90.
+
+
+    D.   EXERCICES
+D-1 Exercices de fixation
+Exercice 1
+𝑎 désigne un nombre différent de zéro.
+Détermine la valeur de 𝑎 lorsque  7        =   2.
+                                         𝑎     5
+
+Exercice 2
+a et b sont des  nombres rationnels différents de 0.
+                               −4      −4     −6      2      −2  −3      𝑎−3
+Ecris plus simplement : 𝑎         ×  𝑏     ; 𝑎    ×  𝑎   ; (𝑎   )    et   𝑎  .
+
+Corrigé
+ −4       −4              −4     −6      2      −4      −2  −3       6  𝑎−3       −4
+𝑎    ×  𝑏    =  (a  ×  b)     ; 𝑎   ×  𝑎   =  a     ; (𝑎   )    =  𝑎   ;  𝑎  =  𝑎    .
+
+Exercice 3
+
+Développe et réduis les expressions littérales suivantes :
+    a)   5𝑥(𝑥   +  3) −  4𝑥(𝑥   −  2) ;     b) (2𝑥  −  5)(3𝑥    +  1) ;      c)  (𝑥+  7)2.
+
+Corrigé
+    a)    5𝑥(𝑥  +  3)  −  4𝑥(𝑥   −  2)  =  5𝑥2   + 15𝑥   −  4𝑥2   +  8𝑥
+             5𝑥(𝑥+ 3)  −  4𝑥(𝑥   −  2)  =  𝑥2  +  23𝑥.
+    b)   (2𝑥  −  5)(3𝑥   +  1)  =  6𝑥2   −  13𝑥  −  5.
+    c)   (𝑥 +  7)2  =   𝑥2 +  14𝑥   +  49.
+
+
+                                                                                                                                7
+Exercice 4
+Détermine les  valeurs de          pour lesquelles :                           .
+
+Corrigé
+𝑥 =  4   ou  𝑥  =  −2 .
+     3
+
+Exercice 5
+Détermine les  valeurs de          pour lesquelles : 𝑥2     =  25.
+
+Corrigé
+ 𝑥 =  5  ou  𝑥  =   −5.
+
+Exercice 6
+Réponds par vrai ou par faux à chacune des affirmations suivantes :
+
+a ) 9𝑥5  −   48𝑥2   +  36𝑥   −  4 est un polynôme :
+b ) 23 +  7𝑥3   −  1  est un polynôme :
+    𝑥4
+
+
+Corrigé
+a ) 9𝑥5  −   48𝑥2   +  36𝑥   −  4 est un polynôme :            Vrai
+b ) 23 +  7𝑥3   −  1  est un polynôme :
+    𝑥4                                                        Faux
+
+
+Exercice 7
+
+Réponds par vrai ou par faux à chacune des affirmations suivantes.
+a) 7𝑥3  −  15𝑥2    +  1 est une fraction rationnelle.
+
+    𝑥2 − 9
+b)    x+3   est une fraction rationnelle     .
+
+Corrigé
+a) 7𝑥3  −  15𝑥2    +  1 est une fraction rationnelle : Faux.
+
+    𝑥2 − 9
+b)    x+3   est une fraction rationnelle :  Vrai.
+
+
+
+Exercice 8
+                                                                  𝑥3+ 5 𝑥2
+On considère la fraction rationnelle B telle que : 𝐵           =    𝑥2−𝑥
+Détermine les valeurs pour lesquelles B existe
+
+Corrigé
+B existe pour 𝑥2     −  𝑥 ≠   0 .
+Résolvons l’équation 𝑥2       −  𝑥  =  0.
+𝑥(𝑥  −  1)  =  0 équivaut à 𝑥     =  0 ou 𝑥   =  1.
+Donc B existe pour𝑥       ≠  0 et 𝑥   ≠  0.
+
+
+
+                                                                                                                                  8
+Exercice 9
+
+                                                                𝑥2 − 9
+On donne la fraction rationnelle F telle que : 𝐹          =  (x+3)(x−1).
+Détermine les valeurs de 𝑥 pour lesquelles F existe.
+
+Corrigé
+F existe pour (𝑥    +  3)(𝑥   −  1)  ≠  0 .
+Résolvons l’équation (𝑥       +  3)(𝑥   −  1)  =  0.
+(𝑥 +  3)(𝑥   −  1)  =  0 équivaut à 𝑥     =  −3 ou 𝑥    =  1.
+Donc F existe pour 𝑥      ≠   −3 et 𝑥   ≠  1.
+
+
+Exercice 10
+                                                                 𝑥2 − 9
+On donne la fraction rationnelle F telle que :  𝐹          =  (x+3)(x−1).
+Simplifie F pour 𝑥     ≠  −3 et 𝑥    ≠  1.
+
+Corrigé
+                                      𝑥2 – 9
+Pour 𝑥   ≠  −3 𝑒𝑡 𝑥    ≠  1, 𝐹  =  (𝑥+3)(𝑥−1)
+                                          =(𝑥−3)(𝑥+3).
+                                   (𝑥+3)(𝑥−1)
+                                  𝐹=   𝑥−3 .
+                                      𝑥−1)
+
+
+
+ D-2 Exercices de renforcement
+Exercice 11
+
+Q est un polynôme tel que 𝑄         =  (3𝑥  +  4)2   −  (𝑥 +  4)(5𝑥    +  8) +  4𝑥.
+    1.   a) Justifie que : 𝑄    =  4𝑥2  −  16 .
+         b) Déduis-en la factorisation de Q.
+    2.   Résous l’équation 4(𝑥       −  2)(𝑥   +  2)  =  0
+
+Exercice 12
+                                                                   4𝑥2−4𝑥+1
+On considère la fraction rationnelle P , telle que         𝑃  =  (𝑥+1)(2𝑥−1).
+    1.   Trouve les valeurs de      𝑥 pour lesquelles P existe.
+    2.   a) Montre que : 4𝑥2      −  4𝑥  +  1  =  (2𝑥   −  1)2.
+         b) Simplifie P pour 𝑥      ≠  −1 et 𝑥    ≠  1.
+                                                     2
+    3.   Calcule la valeur numérique de P pour 𝑥            =  −2.
+
+Exercice 13
+On donne les expressions littérales A et B suivantes :
+      𝐴=  (𝑥  +  1)2  −  9      ;         𝐵=    𝑥−2    .
+                                             (𝑥+1)2−9
+    1.   Justifie que : 𝐴   =  (𝑥  −  2)(𝑥   +  4).
+    2.   a) Détermine les valeurs de 𝑥 pour lesquelles B existe.
+         b) Simplifie B pour 𝑥      ≠  2 et 𝑥   ≠  4.
+
+Exercice 14
+                                                               (𝑥−3)2+(𝑥−3)(2𝑥+1)
+On donne la fraction rationnelle F telle que :   𝐹          =      (𝑥−5)(3𝑥−2)       .
+    1.   Justifie que : (𝑥   −  3)2  +  (𝑥  −  3)(2𝑥   +  1)  =  (𝑥  −  3)(3𝑥   −  2).
+
+                                                                                                                                  9
+    2.   a) Détermine les valeurs de 𝑥 pour lesquelles F existe.
+         b) Justifie que pour  𝑥    ≠  5 et 𝑥  ≠  2,  𝐹 =  𝑥−3.
+                                                  3        𝑥−5
+    3.   Calcule la valeur numérique de F pour 𝑥          =  −3.
+
+Exercice 15
+On donne les expressions littérales R et T suivantes :
+      𝑅=  (2𝑥  +  3)2  −  1      ;         𝑆=4𝑥2   +  4𝑥  −  8.
+   1.   a) Vérifie que  : 𝑆    =  4(𝑥  −  1)(𝑥   +  2) .
+         b) Justifie que : 𝑅   =  4(𝑥  +  1)(𝑥   +  2).
+   2.   On considère la fraction rationnelle 𝑇         =  𝑅 .
+                                                          𝑆
+         a) Détermine les valeurs de 𝑥 pour lesquelles T existe.
+         b) Simplifie T, pour 𝑥     ≠  1 et 𝑥  ≠  −2.
+         c) Calcule la valeur numérique de T pour 𝑥           =  1.
+                                                                 2
+
+
+
+D-3 Exercices d’approfondissement
+
+Exercice 16
+Sur la figure dessinée ci-dessous, 𝐴𝐵𝐶𝐷 est un carré et 𝐴𝐵𝐸𝐹 est un rectangle.
+On a 𝐴𝐵    =  𝐵𝐶   =  2𝑥  +  1 et 𝐴𝐹   =  𝑥 +  3, où 𝑥 désigne un nombre supérieur à deux.
+L’unité de longueur est le centimètre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    1.   Exprime la longueur 𝐹𝐷 en fonction de 𝑥.
+    2.   Déduis-en que l’aire de 𝐹𝐸𝐶𝐷 est égale à (2𝑥            + 1)(𝑥   −  2).
+    3.   Exprime en fonction de 𝑥 les aires du carré 𝐴𝐵𝐶𝐷 et du rectangle 𝐴𝐵𝐸𝐹.
+    4.   Déduis-en que l’aire du rectangle        𝐹𝐸𝐶𝐷 est : (2𝑥     +  1)2  −  (2𝑥  +  1)(𝑥   + 3).
+    5.   Justifie que :(2𝑥   +  1)2  −  (2𝑥  +  1)(𝑥   +  3)  =  (2𝑥  +  1)(𝑥  −  2).
+
+Corrigé
+
+    1.   𝐹𝐷   =   𝐵𝐶 –   𝐴𝐹
+                 = (2𝑥 +  1) −  (𝑥  +  3)  =   2𝑥  +  1 −  𝑥  − 3  =  𝑥 −  2
+         𝐹𝐷   =  𝑥  − 2 .
+    2.   Aire (𝐹𝐸𝐶𝐷) = 𝐶𝐷 x FD
+                               =  (2𝑥+1)(𝑥 −  3).
+    3.   Aire (𝐴𝐵𝐶𝐷) = 𝐴𝐵× AB = (2𝑥            +  1)(2𝑥   +  1) = (2𝑥    + 1)2.
+         Aire (𝐴𝐵𝐸𝐹) = 𝐴𝐵×AF = (2𝑥            +  1)(𝑥   +  3).
+
+    4.   Aire (𝐹𝐸𝐶𝐷) = Aire (𝐴𝐵𝐶𝐷) − Aire (𝐴𝐵𝐸𝐹)
+                               = (2𝑥+1)2 −  (2𝑥  +  1)(𝑥  +  3).
+
+                                                                                                                             10
+    5.  1ère méthode :
+D’après la question 2. l’aire de FECD est (2𝑥     +  1)(𝑥 −  2).
+D’après la question 4. L’aire de FECD est (2𝑥      + 1)2  −  (2𝑥 +  1)(𝑥  + 3).
+Donc, (2𝑥   + 1)2  − (2𝑥  +  1)(𝑥  + 3)  = (2𝑥  +  1)(𝑥  − 2).
+
+        2ème méthode :
+On a : (2𝑥  + 1)2  − (2𝑥  +  1)(𝑥  + 3)  = (2𝑥  +  1)(2𝑥  +  1) −  (2𝑥  + 1)(𝑥  +  3).
+           (2𝑥+1)2 − (2𝑥  +  1)(𝑥  + 3)  =  (2𝑥 +  1)[(2𝑥  +  1) −  (𝑥 +  3)].
+           (2𝑥+1)2 − (2𝑥  +  1)(𝑥  + 3)  =  (2𝑥 +  1)(𝑥  −  2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                 11
